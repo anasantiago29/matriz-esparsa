@@ -1,5 +1,3 @@
-// Aluna: Ana Beatriz Martins Santiago
-// Matrícula: 570493
 #ifndef SPARSEMATRIX_H
 #define SPARSEMATRIX_H
 #include "Node.h"

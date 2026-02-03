@@ -1,5 +1,3 @@
-// Aluna: Ana Beatriz Martins Santiago
-// Matrícula: 570493
 #include <iostream>
 #include <fstream>
 #include <vector>

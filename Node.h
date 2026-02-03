@@ -1,5 +1,3 @@
-// Aluna: Ana Beatriz Martins Santiago
-// Matrícula: 570493
 #ifndef NODE_H
 #define NODE_H
 
