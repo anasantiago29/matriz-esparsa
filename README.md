@@ -1,5 +1,4 @@
 # Matriz Esparsa
-## Status: Em construção :hammer:
 
 ## :books: Contexto 
 Projeto acadêmico feito para a disciplina de ***Estrutura de Dados***.
